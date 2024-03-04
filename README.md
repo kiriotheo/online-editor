@@ -1,70 +1,78 @@
-# Getting Started with Create React App
+# React CodePen Clone
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to the React CodePen Clone! This web application allows users to create, share, and explore interactive code snippets right in their browser.
 
-## Available Scripts
+## Features
 
-In the project directory, you can run:
+Code Editing: Edit HTML, CSS, and JavaScript code in real-time with syntax highlighting.
+Preview: Instantly see the results of your code changes in a live preview pane.
+Sharing: Share your creations with others by simply sharing the URL.
+Forking: Fork existing pens to build upon them or create variations.
+User Accounts: Register and log in to save and manage your pens.
+## Technologies Used
+- React
+- HTML
+- CSS
+- JavaScript
+## Getting Started
 
-### `npm start`
+To get a local copy up and running, follow these steps:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Clone the repository: git clone https://github.com/kiriotheo/codepen-clone.git
+<br />
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Navigate to the project directory: ```cd codepen-clone```
+<br />
 
-### `npm test`
+Install dependencies: ```npm install```
+<br />
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Start the development server: ```npm start```
+## Usage
 
-### `npm run build`
+Sign up or log in to your account.
+<br />
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Create a new pen or explore existing ones.
+<br />
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Edit the code in the editor panes.
+<br />
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+View the live preview to see your changes.
+<br />
 
-### `npm run eject`
+Save your pen to your account or share it with others.
+<br />
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Contributing
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Fork the repository.
+<br />
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Create your feature branch: ```git checkout -b feature-name```
+<br />
 
-## Learn More
+Commit your changes: ```git commit -am 'Add some feature'```
+<br />
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Push to the branch: ```git push origin feature-name```
+<br />
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Submit a pull request.
+<br />
 
-### Code Splitting
+## License
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+This project is licensed under the MIT License.
 
-### Analyzing the Bundle Size
+## Acknowledgements
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+This project was inspired by CodePen.
+<br />
 
-### Making a Progressive Web App
+Special thanks to MaterialUI for making development easier.
+<br />
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
