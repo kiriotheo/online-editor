@@ -30,7 +30,6 @@ const Result = () => {
     }, [html, css, js])
 
     return (
-
         <Container style={html || css || js ? null : {background: '#444857'  }} >
             <iframe
                 srcDoc={src}
