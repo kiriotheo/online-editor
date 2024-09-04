@@ -2,7 +2,7 @@ import {useContext} from "react";
 import {DataContext} from "../context/DataProvider";
 
 import Editor from './Editor';
-import {Box, css, styled} from "@mui/material";
+import {Box, styled} from "@mui/material";
 
 const Container = styled(Box)`
 display: flex; 
